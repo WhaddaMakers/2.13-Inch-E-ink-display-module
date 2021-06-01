@@ -1,3 +1,3 @@
 # 2.13_inch_E-ink_display_module
 
-Example code for the E-ink display. You can creat your own images
+Example code for the E-ink display. You can create your own images, text,..... 
